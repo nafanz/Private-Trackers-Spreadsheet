@@ -138,7 +138,7 @@
     {
       "name": "Back-ups",
       "description": "Back-Ups is a Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "PC, Console, TV, Audio, Movies, Books, XXX"
+      "type": "PC, Console, TV, Books, Audio, Movies, XXX"
     },
     {
       "name": "baoziPT",
@@ -346,6 +346,11 @@
       "type": "XXX, PC, TV, Audio, Console, Movies, General, Books"
     },
     {
+      "name": "DanishBits (API)",
+      "description": "DanishBits is a Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, XXX, Console, PC, Books, General"
+    },
+    {
       "name": "Darkpeers (API)",
       "description": "Darkpeers is a Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Console, Audio, PC, XXX, General, Books"
@@ -448,7 +453,7 @@
     {
       "name": "Explosiv-World",
       "description": "Explosiv-World (E-W) is a GERMAN Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, Audio, PC, Console, Books, XXX"
+      "type": "Movies, TV, Audio, PC, Console, Books, XXX, General"
     },
     {
       "name": "F1Carreras (API)",
@@ -533,7 +538,7 @@
     {
       "name": "Hǎitáng (海棠PT)",
       "description": "Hǎitáng (海棠PT) is a CHINESE Private Torrent Tracker for OPERA / CROSSTALK",
-      "type": "Audio, TV"
+      "type": "Audio, TV, Books"
     },
     {
       "name": "HappyFappy2FA",
@@ -811,11 +816,6 @@
       "type": "Movies, Audio, PC, Console, Books, TV, XXX"
     },
     {
-      "name": "Making Off",
-      "description": "Making Off is a BRAZILIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, TV, Audio"
-    },
-    {
       "name": "Malayabits (API)",
       "description": "Malayabits is a MALAYSIAN Private Torrent Tracker for MOVIES / TV / MUSIC",
       "type": "Movies, TV, Audio, Books"
@@ -963,7 +963,7 @@
     {
       "name": "Order66",
       "description": "Order66 is a Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "PC, Console, Movies, Audio, TV, Books"
+      "type": "PC, Console, Audio, Books, Movies, TV"
     },
     {
       "name": "OshenPT",
@@ -1291,6 +1291,11 @@
       "type": "Movies, TV, Audio, Console, PC"
     },
     {
+      "name": "Sportz247",
+      "description": "Sportz247 is a Private Torrent Tracker for SPORTS",
+      "type": "TV, General"
+    },
+    {
       "name": "Swarmazon (API)",
       "description": "Swarmazon is a Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, General, Audio, PC, Books"
@@ -1364,6 +1369,11 @@
       "name": "TheLeachZone (API)",
       "description": "The Leach Zone (TLZ) is a Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "TV, Movies, Audio, Books, Console, PC, General"
+    },
+    {
+      "name": "Thor HUB (API)",
+      "description": "Thor HUB is a Private Torrent Tracker for MOVIES / TV / MUSIC",
+      "type": "Console, Movies, Audio, TV, XXX, General"
     },
     {
       "name": "TJUPT (北洋园PT)",
