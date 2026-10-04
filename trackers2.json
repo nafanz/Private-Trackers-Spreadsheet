@@ -16,7 +16,17 @@
       "type": "Movies, TV, Audio, Books"
     },
     {
+      "name": "13City (API)",
+      "description": "13City is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, Books"
+    },
+    {
       "name": "1ptbar",
+      "description": "1ptbar is a CHINESE Private Torrent Tracker for MOVIES / TV / E-LEARNING",
+      "type": "Movies, TV, Audio, PC, Books, General, XXX"
+    },
+    {
+      "name": "1ptbar (API)",
       "description": "1ptbar is a CHINESE Private Torrent Tracker for MOVIES / TV / E-LEARNING",
       "type": "Movies, TV, Audio, PC, Books, General, XXX"
     },
@@ -69,6 +79,11 @@
       "name": "Aither (API)",
       "description": "Aither is a Private Torrent Tracker for HD MOVIES / TV",
       "type": "Movies, TV"
+    },
+    {
+      "name": "AlaBala",
+      "description": "AlaBala is a BULGARIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "TV, PC, Books, Console, Movies, Audio, XXX"
     },
     {
       "name": "alingPT",
@@ -161,6 +176,11 @@
       "type": "Movies, TV, Audio, General"
     },
     {
+      "name": "baoziPT (API)",
+      "description": "baoziPT is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, General"
+    },
+    {
       "name": "Beload",
       "description": "Beload is a HUNGARIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, Audio, PC, Books, TV, XXX"
@@ -181,6 +201,11 @@
       "type": "XXX, Movies, TV, Audio, Books, PC, General"
     },
     {
+      "name": "BitAgent",
+      "description": "BitAgent is a Private Torrent Tracker for MOVIES / TV",
+      "type": "Movies, Audio, PC, TV, XXX, Books, General"
+    },
+    {
       "name": "Bitded",
       "description": "Bitded is a THAI Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "General, TV, Books, Movies, Audio, PC, Console"
@@ -194,11 +219,6 @@
       "name": "BitHUmen",
       "description": "BitHUmen is a HUNGARIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, XXX, TV, Books, Audio, PC, Console, General"
-    },
-    {
-      "name": "Bitpalace",
-      "description": "Bitpalace is a HUNGARIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
-      "type": "Movies, Books, General, TV, PC, Console, XXX, Audio"
     },
     {
       "name": "BitPorn (API)",
@@ -306,17 +326,17 @@
       "type": "Movies, TV, General, Audio, Books, PC, Console, XXX"
     },
     {
-      "name": "ConCen",
-      "description": "ConCen (Conspiracy Central) is a Private conspiracy related torrent index",
-      "type": ""
-    },
-    {
       "name": "Concertos (API)",
       "description": "Concertos is a Private Torrent Tracker for Live Concerts with Strict Quality Control",
       "type": "TV, Audio"
     },
     {
       "name": "CrabPT (蟹黄堡)",
+      "description": "CrabPT (蟹黄堡) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, General, Books, Console"
+    },
+    {
+      "name": "CrabPT (蟹黄堡) (API)",
       "description": "CrabPT (蟹黄堡) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, General, Books, Console"
     },
@@ -396,6 +416,11 @@
       "type": "Movies, TV, Audio, General"
     },
     {
+      "name": "Depth Studio (API)",
+      "description": "Depth Studio is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, General"
+    },
+    {
       "name": "DesiTorrents (API)",
       "description": "DesiTorrents is an INDIAN Private Torrent Tracker for MOVIES / TV",
       "type": "Movies, TV, Audio"
@@ -414,6 +439,11 @@
       "name": "DimeADozen",
       "description": "DimeADozen (EzTorrent) is a Private Torrent Tracker for BOOTLEG MUSIC",
       "type": "Audio"
+    },
+    {
+      "name": "DirtyBytes (API)",
+      "description": "DirtyBytes is a Private Torrent Tracker for 3X",
+      "type": "XXX"
     },
     {
       "name": "DiscFan",
@@ -492,6 +522,11 @@
     },
     {
       "name": "Free Farm (自由农场)",
+      "description": "Free Farm (自由农场) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, General, Books, PC"
+    },
+    {
+      "name": "Free Farm (自由农场) (API)",
       "description": "Free Farm (自由农场) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, General, Books, PC"
     },
@@ -651,6 +686,11 @@
       "type": "Audio, TV, Movies"
     },
     {
+      "name": "HDVideo (API)",
+      "description": "HDVideo is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Audio, TV, Movies"
+    },
+    {
       "name": "HDZero (API)",
       "description": "HD Zero is a SPANISH Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, General"
@@ -697,8 +737,8 @@
     },
     {
       "name": "InfinityHD (API)",
-      "description": "InfinityHD is a Private Torrent Tracker for MOVIES / TV / ANIME",
-      "type": "Movies, TV"
+      "description": "InfinityHD is a Private Torrent Tracker for MOVIES / TV / ANIME / MUSIC",
+      "type": "Movies, TV, Audio"
     },
     {
       "name": "JME-REUNIT3D (API)",
@@ -756,6 +796,11 @@
       "type": "Movies, TV, Audio, General, Books, PC"
     },
     {
+      "name": "lajidui (API)",
+      "description": "lajidui is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, General, Books, PC"
+    },
+    {
       "name": "LastFiles",
       "description": "LastFiles (LF) is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "TV, Movies, General, PC, Audio, Books, XXX"
@@ -772,6 +817,11 @@
     },
     {
       "name": "LemonHD.net",
+      "description": "LemonHD.net is a CHINESE Private Torrent Tracker for HD MOVIES / TV",
+      "type": "Movies, Audio, TV, General"
+    },
+    {
+      "name": "LemonHD.net (API)",
       "description": "LemonHD.net is a CHINESE Private Torrent Tracker for HD MOVIES / TV",
       "type": "Movies, Audio, TV, General"
     },
@@ -797,6 +847,11 @@
     },
     {
       "name": "LongPT",
+      "description": "LongPT is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Audio, General, TV, Movies"
+    },
+    {
+      "name": "LongPT (API)",
       "description": "LongPT is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Audio, General, TV, Movies"
     },
@@ -906,6 +961,11 @@
       "type": "Audio"
     },
     {
+      "name": "Musopia (音乐乌托邦) (API)",
+      "description": "Musopia (音乐乌托邦) is a CHINESE Private Torrent Tracker for MUSIC",
+      "type": "Audio"
+    },
+    {
       "name": "Muxuege",
       "description": "Muxuege is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, PC, General, Books, Console"
@@ -922,6 +982,11 @@
     },
     {
       "name": "NicePT",
+      "description": "NicePT is a CHINESE Private Torrent Tracker for 3X",
+      "type": "XXX"
+    },
+    {
+      "name": "NicePT (API)",
       "description": "NicePT is a CHINESE Private Torrent Tracker for 3X",
       "type": "XXX"
     },
@@ -1026,6 +1091,21 @@
       "type": "TV, PC, Movies, General, XXX, Audio, Books"
     },
     {
+      "name": "Periodical",
+      "description": "Periodical (PER) is a Private Torrent Tracker for MAGAZINES",
+      "type": "Books"
+    },
+    {
+      "name": "PhoenixPT (凤凰PT)",
+      "description": "PhoenixPT (凤凰PT) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Books, PC, Audio, XXX"
+    },
+    {
+      "name": "PhoenixPT (凤凰PT) (API)",
+      "description": "PhoenixPT (凤凰PT) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Books, PC, Audio, XXX"
+    },
+    {
       "name": "PigNetwork (猪猪网)",
       "description": "PigNetwork (猪猪网) is a CHINESE Private Torrent Tracker for HD MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, General, Books"
@@ -1071,7 +1151,17 @@
       "type": "Movies, TV, Audio, General, Books"
     },
     {
+      "name": "PT GTK (API)",
+      "description": "PT GTK is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, General, Books"
+    },
+    {
       "name": "PTCafe (咖啡)",
+      "description": "PTCafe (咖啡) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, General"
+    },
+    {
+      "name": "PTCafe (咖啡) (API)",
       "description": "PTCafe (咖啡) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, General"
     },
@@ -1092,6 +1182,11 @@
     },
     {
       "name": "PTLAO",
+      "description": "PTLAO is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, General"
+    },
+    {
+      "name": "PTLAO (API)",
       "description": "PTLAO is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, General"
     },
@@ -1132,6 +1227,11 @@
     },
     {
       "name": "PTzone",
+      "description": "PTzone is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Movies, TV, Audio, General, PC"
+    },
+    {
+      "name": "PTzone (API)",
       "description": "PTzone is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL",
       "type": "Movies, TV, Audio, General, PC"
     },
@@ -1323,7 +1423,12 @@
     {
       "name": "Sportz247",
       "description": "Sportz247 is a Private Torrent Tracker for SPORTS",
-      "type": "TV, General"
+      "type": "TV, Movies, Books"
+    },
+    {
+      "name": "Stellarwinds",
+      "description": " Stellarwinds is a Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "Console, Movies, Audio, PC, TV, XXX, Books, General"
     },
     {
       "name": "Swarmazon (API)",
@@ -1379,6 +1484,11 @@
       "name": "The Kitchen",
       "description": "TheKitchen (TK) is a Private Torrent Tracker for COOKING / CUISINES / RECIPES",
       "type": "General, TV"
+    },
+    {
+      "name": "The New Heaven",
+      "description": "The New Heaven (TNH) is a GERMAN Private Torrent Tracker for MOVIES / TV / GENERAL",
+      "type": "PC, TV, Books, Console, Movies, Audio, General, XXX"
     },
     {
       "name": "The Occult",
